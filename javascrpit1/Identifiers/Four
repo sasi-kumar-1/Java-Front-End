@@ -1,0 +1,2 @@
+var console1 = "sasi kumar"
+console.log(console1)
